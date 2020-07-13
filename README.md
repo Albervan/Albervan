@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+---
+![Assinatura para Web](https://user-images.githubusercontent.com/54541416/79355640-edd8d600-7f0b-11ea-8ac0-74640a591e3c.png)
+
+Conheça mais:
+* [LinkedIn](https://www.linkedin.com/in/albervan-bergamasco-davies-15aa9999/)
+* [Repositórios públicos no GitHub](https://github.com/Albervan)
+* [Wordpress](https://albervan.wordpress.com/)
+
 <!--
 **Albervan/Albervan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
