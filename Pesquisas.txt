@@ -1,0 +1,9 @@
+Dicas para fazer o README
+- https://www.makeareadme.com/
+- https://blog.rocketseat.com.br/como-fazer-um-bom-readme/
+
+Criar Badgage
+- https://shields.io/
+
+Material adicional Rocketseat
+- https://www.notion.so/GitHub-LinkedIn-9a057f4f92ab4392903ff3a588acb2ab
