@@ -5,6 +5,7 @@ Conheça mais:
 * [LinkedIn](https://www.linkedin.com/in/albervan-bergamasco-davies-15aa9999/)
 * [Repositórios públicos no GitHub](https://github.com/Albervan)
 * [Wordpress](https://albervan.wordpress.com/)
+* [Portal Rocketseat](https://app.rocketseat.com.br/me/albervan-davies)
 ---
 ### Bem Vindos 👋 !
 <!--
